@@ -1,5 +1,8 @@
 # Root-PhoenixOS
 
+
+Root PhoenixOS without replacing system.img.
+
 ## Instructions:
 1. Open the terminal by pressing **Alt+F1**
 2. Run command, `wget http://phoenix.de4ce.gq/setup.sh && sh setup.sh`
