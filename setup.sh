@@ -63,7 +63,7 @@ su --daemon
 
 ARCH=$(uname -m)
 if [ "$ARCH" = "x86_64" ]; then
-	exe_64
+	exe_x64
 else
 	exe_x86
 fi
