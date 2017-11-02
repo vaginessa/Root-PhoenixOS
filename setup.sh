@@ -70,7 +70,7 @@ fi
 
 # instal supersu.apk
 pm install $su_path/common/Superuser.apk &> /dev/null
-rm -rf de4ce
+rm -rf /storage/emulated/0/de4ce
 sleep 1
 echo "  - SuperSU successfully installed."
 exit
